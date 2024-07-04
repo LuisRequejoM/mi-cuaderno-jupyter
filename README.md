@@ -1,0 +1,1 @@
+Este cuaderno Jupyter proporciona una descripción general de las herramientas y el ecosistema de ciencia de datos, incluyendo lenguajes populares, bibliotecas comunes y herramientas principales. Además, incluye ejemplos de evaluación de expresiones aritméticas en Python.
